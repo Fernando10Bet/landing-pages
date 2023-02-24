@@ -1,0 +1,11 @@
+    <p>Para 10bet.mx tu seguridad es primero, es por ello que para tener retiros más rápidos y seguros es necesario realizar un sencillo proceso de validación de identidad.</p>
+    <p>Da clic en el siguiente enlace para subir tus documentos.</p>
+    <a href="https://signup.getmati.com/?merchantToken=6335ab7dbf975d001cfa76e5&flowId=633dde0c7a79e4001dc41a39">https://signup.getmati.com/?merchantToken=6335ab7dbf975d001cfa76e5&flowId=633dde0c7a79e4001dc41a39</a>
+
+    <h2 style="margin-top:2rem;">¿Necesito validar mi cuenta?</h2>
+    <p>Si, antes de solicitar tu primer retiro.</p>
+
+    <h2 style="margin-top:2rem;">¿Qué documentos requirió subir?</h2>
+    <p>Para llevar a cabo la validación de tu cuenta solo tienes que subir tu identificación válida por ambos lados y tu comprobante de domicilio no mayor a tres meses.</p>
+
+    <b style="font-size: .8rem;">Te recordamos que los documentos deben de ser en formato JPEG, JPG, PDF o PNG para que puedan ser aceptados. Puedes subir tus documentos o mandar los al electrónico a <a href="mailto:soporte@10bet.mx">soporte@10bet.mx</a>.</b>
