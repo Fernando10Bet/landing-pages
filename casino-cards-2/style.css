@@ -237,11 +237,12 @@ body {
   color:#ffffff;
   padding: 50px;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: flex-start;
   flex-direction: column;
   max-width: 40%;
   height: 100%;
+  row-gap: 10px;
 }
 .landing-header .header-content .bgHeader {
   position: absolute;
